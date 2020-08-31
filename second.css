@@ -1,0 +1,80 @@
+
+h1
+{
+	margin-left: 370px;
+	color:white;
+	font-family: 'Dancing Script', cursive;
+
+}
+h2
+{
+	color:white;
+	font-family: 'Dancing Script', cursive;
+	margin-top:40px ;
+}
+img
+{
+	width:235px;
+	height:250px;
+	border:1px solid white;
+}
+body
+{
+	background: url("https://cutewallpaper.org/21/website-wallpaper-backgrounds/72+-Wallpaper-Site-on-WallpaperSafari.jpg");
+}
+table
+{
+	
+	font-family: 'Dancing Script', cursive;
+	color: white;
+}
+p
+{
+	color: white;
+}
+#unu
+{
+	margin-left: 490px;
+	border-bottom:  1px  dotted white;
+	margin-right: 250px;
+}
+#doi
+{
+	margin-left: 700px;
+	border-bottom: 2px dotted white;
+	margin-right: 350px;
+}
+td
+{
+	margin-top: 100px;
+}
+#th
+{
+	margin-left: 300px;
+	border-bottom:  1px  dotted white;
+}
+#ttt
+{
+	margin-left: 290px;
+}
+#img
+{
+	border:1px  dotted white;;
+}
+#final
+{
+	margin-left: 570px;
+	margin-right: 600px;
+	border-bottom:  2px dotted white;
+}
+#hatz
+{
+	margin-left: 130px;
+	font-size:20px; 
+	font-family: 'Krona One', sans-serif;
+}
+#total
+{
+	font-family: 'Krona One', sans-serif;
+	margin-left: 400px;
+}
